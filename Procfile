@@ -1,1 +1,1 @@
-ezvalts: node app.js
+ezvalts: node index.js
